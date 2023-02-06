@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/vadimkacool/Elden-Ring-Death-Counter-OBS?color=gree)
 ## Преимущества
 
-- Нет необходимости импользовать скрипт с самого начала игры, он автоматически загрузит предыдущие смерти, которые были до его установки
+- Нет необходимости импользовать скрипт с самого начала игры, он автоматически загрузит смерти которые были до его установки
 - Нет необходимости каждый раз нажимать на кнопку после смерти, скрипт обновляет данные автоматически
 ## Установка
 #### 0.Скачайте [скрипт](https://github.com/Sphynx-HenryAY/elden-ring-death-counter/archive/refs/heads/main.zip)
