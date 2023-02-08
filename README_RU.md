@@ -6,7 +6,7 @@
 - Нет необходимости импользовать скрипт с самого начала игры, он автоматически загрузит смерти которые были до его установки
 - Нет необходимости каждый раз нажимать на кнопку после смерти, скрипт обновляет данные автоматически
 ## Установка
-#### 0.Скачайте [скрипт](https://github.com/Sphynx-HenryAY/elden-ring-death-counter/archive/refs/heads/main.zip)
+#### 0.Скачайте [скрипт](https://github.com/vadimkacool/Elden-Ring-Death-Counter-OBS/archive/refs/heads/main.zip)
 
 #### 1.Python
  - Скачайте [Python](https://www.python.org/downloads/release/python-3109/)
