@@ -7,7 +7,7 @@
 - No need to use the script from the beginning of the game, it will automatically load the deaths that were there before it was installed
 - No need to press the button every time you die, the script updates the data automatically
 ## Installation
-#### 0.Download [script]https://github.com/vadimkacool/Elden-Ring-Death-Counter-OBS/archive/refs/heads/main.zip)
+#### 0.Download [script](https://github.com/vadimkacool/Elden-Ring-Death-Counter-OBS/archive/refs/heads/main.zip)
 
 #### 1.Python
  - Download [Python](https://www.python.org/downloads/release/python-3109/)
