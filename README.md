@@ -1,4 +1,5 @@
-### Automatic Elden Ring death counter OBS script
+## [Русская версия](README_RU.md)
+# Automatic Elden Ring death counter OBS script
 ### OBS script, automatic Elden Ring death counter
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/vadimkacool/Elden-Ring-Death-Counter-OBS?color=gree)
 ## Advantages
