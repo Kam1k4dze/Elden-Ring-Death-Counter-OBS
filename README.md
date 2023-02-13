@@ -43,6 +43,3 @@ pip install pymem
 4. After loading and entering the game, click on the `Attach` button in the script menu. The script should update the text you created earlier. The script will then update the deaths automatically
 
 ## If this script helped you, give it a ⭐
-
-
-Translated with www.DeepL.com/Translator (free version)
