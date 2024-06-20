@@ -1,3 +1,5 @@
+This script is abandoned use [this tool](https://www.nexusmods.com/eldenring/mods/2989) instead
+
 ## [Версия на Русском](README_RU.md)
 # Automatic Elden Ring death counter OBS script
 ### OBS script, automatic Elden Ring death counter
